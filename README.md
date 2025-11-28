@@ -15,4 +15,4 @@ Reporistorio usado para la resolución del problema 3 del trabajo teórico y pr�
 
 ***
 
-## [Enlace respositorio principal]()
+## [Enlace respositorio principal](https://github.com/ismapisma04/ISO25-ISO2-BC02)
