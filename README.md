@@ -16,7 +16,6 @@ Grupo de trabajo: BC02
 | Ainhoa Sánchez Esteban | Implementación de las pruebas |
 | Manuel Porrero Sierra | Diseño de los casos de prueba |
 | David Ruiz Sánchez | Diseño de los casos de prueba |
-
 <\div>
 ***
 
