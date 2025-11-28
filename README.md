@@ -5,9 +5,7 @@ Reporistorio usado para la resolución del problema 3 del trabajo teórico y pr�
 
 ## INTEGRANTES DEL PROBLEMA 3
 
-Grupo de trabajo: BC02
-<div align="center">
-  
+Grupo de trabajo: BC02  
 | Nombres | Rol |
 | :-------: | :--------: |
 | Jesús Márquez Duque | Implementación del problema |
@@ -16,8 +14,6 @@ Grupo de trabajo: BC02
 | Ainhoa Sánchez Esteban | Implementación de las pruebas |
 | Manuel Porrero Sierra | Diseño de los casos de prueba |
 | David Ruiz Sánchez | Diseño de los casos de prueba |
-
-<\div>
 
 ***
 
