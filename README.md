@@ -1,9 +1,12 @@
-# ISO2-2025-BC02-Problema3
+# ISO2-2025-BC02-Problema-3
 Reporistorio usado para la resolución del problema 3 del trabajo teórico y práctico de ISO 2
 
 ***
 
 ## INTEGRANTES DEL PROBLEMA 3
+
+Grupo de trabajo: BC02
+
 | Nombres | Rol |
 | :-------: | :--------: |
 | Jesús Márquez Duque | Implementación del problema |
