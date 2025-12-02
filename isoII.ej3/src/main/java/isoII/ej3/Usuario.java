@@ -6,7 +6,6 @@ public class Usuario {
 	
 	
 	public Usuario(boolean plenas_facultades, boolean sintomas) {
-		super();
 		this.plenas_facultades = plenas_facultades;
 		this.sintomas = sintomas;
 	}

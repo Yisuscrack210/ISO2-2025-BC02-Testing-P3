@@ -6,7 +6,6 @@ public class Instalaciones {
 
 	
 	public Instalaciones(boolean aforo) {
-		super();
 		this.aforo = aforo;
 	}
 
