@@ -33,7 +33,7 @@ public class Recomendacion {
 				recomendacion="Puedes hacer senderismo o escalada";
 			}	
 		}
-		else if(clima.getTemperatura()>15&&clima.getTemperatura()<25&&clima.getHumedad()>60&&!clima.isPrec_agua()&&!clima.isNublado()) {
+		else if(clima.getTemperatura()>15&&clima.getTemperatura()<25&&clima.getHumedad()<60&&!clima.isPrec_agua()&&!clima.isNublado()) {
 			recomendacion="Puedes hacer cualquier actividad del catálogo de verano, primavera y otoño";
 		}
 		else if(clima.getTemperatura()>25&&clima.getTemperatura()<35&&!clima.isPrec_agua()) {
